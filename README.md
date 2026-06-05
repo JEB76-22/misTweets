@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Pequeño proyecto de práctica para guardar y mostrar datos en el navegador usando la API `localStorage`. Permite añadir, listar y eliminar elementos (tweets de ejemplo) y persiste la información entre recargas.
+Proyecto de práctica para guardar y mostrar datos en el navegador usando la API `localStorage`. Permite añadir, listar y eliminar elementos (tweets de ejemplo) y persiste la información entre recargas.
 
 **Visita el sitio web:** [misTweets](https://mistweets26.netlify.app/)
 
