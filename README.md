@@ -23,8 +23,8 @@ Pequeño proyecto de práctica para guardar y mostrar datos en el navegador usan
 
 ## Autor
 
-Desarrollador: JEB$DEV de Javier Berchtold
-Repositorios: https://github.com/JEB76-22?tab=repositories
+Desarrollador: JEB$DEV de Javier Berchtold.
+Repositorios: https://github.com/JEB76-22?tab=repositories.
 Correo: j.e.b.inter@gmail.com
 
 ## Notas
